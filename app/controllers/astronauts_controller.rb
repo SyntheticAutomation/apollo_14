@@ -4,4 +4,5 @@ class AstronautsController < ApplicationController
     @astronauts = Astronaut.all
   end
 
+
 end
